@@ -4,4 +4,5 @@ It implements the Radon Transform and visualizes how the sinogram is built up th
 
 ### Example
 This is an example of what the visualization looks like with the Shepp-Logan phantom as input image:
+
 https://github.com/user-attachments/assets/9d5c8f17-c09b-40b0-9319-d53a54dadb13
